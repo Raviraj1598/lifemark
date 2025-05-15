@@ -1,0 +1,31 @@
+.left
+{
+    float:left;
+    clear: both;
+    margin-top:5px;
+}
+.right
+{
+    float:right;
+    clear: both;
+    margin-top:5px;
+}
+.c-img
+{
+    height:30px;
+    width:30px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+.msg
+{
+    background-color: #e1dfdf;
+    color:black;
+    padding: 9px;
+    border-radius: 20px;
+}
+.msg-box
+{
+    height:300px;
+    overflow-y: auto;
+}
